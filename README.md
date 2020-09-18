@@ -1,1 +1,3 @@
 # go admin
+
+gin+vue
